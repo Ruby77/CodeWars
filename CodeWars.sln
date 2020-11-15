@@ -137,11 +137,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Human readable duration for
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku Solution Validator", "Sudoku Solution Validator\Sudoku Solution Validator.csproj", "{FFDCEE01-B132-4E97-B7A6-4A2C7FF1F248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Solution Validator tests", "Sudoku Solution Validator tests\Sudoku Solution Validator tests.csproj", "{BC37977C-AEF8-4BEE-AA14-1F862910B0BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku Solution Validator tests", "Sudoku Solution Validator tests\Sudoku Solution Validator tests.csproj", "{BC37977C-AEF8-4BEE-AA14-1F862910B0BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect Pangram", "Detect Pangram\Detect Pangram.csproj", "{7BC807EF-A728-4BB7-9CCD-31FA822AE52C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect Pangram tests", "Detect Pangram tests\Detect Pangram tests.csproj", "{BCBB2963-B63A-4011-A103-9011F5AA3F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect Pangram tests", "Detect Pangram tests\Detect Pangram tests.csproj", "{BCBB2963-B63A-4011-A103-9011F5AA3F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Equation tests", "Simple Equation tests\Simple Equation tests.csproj", "{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Equation", "Simple Equation\Simple Equation.csproj", "{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -429,6 +433,14 @@ Global
 		{BCBB2963-B63A-4011-A103-9011F5AA3F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBB2963-B63A-4011-A103-9011F5AA3F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBB2963-B63A-4011-A103-9011F5AA3F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
