@@ -143,9 +143,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect Pangram", "Detect Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect Pangram tests", "Detect Pangram tests\Detect Pangram tests.csproj", "{BCBB2963-B63A-4011-A103-9011F5AA3F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Equation tests", "Simple Equation tests\Simple Equation tests.csproj", "{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Equation tests", "Simple Equation tests\Simple Equation tests.csproj", "{7D3B3ACB-E1A6-4EEB-87C7-FDB6720F2C8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Equation", "Simple Equation\Simple Equation.csproj", "{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail", "Snail\Snail.csproj", "{8D57C908-49B8-4526-93C7-00088C30860B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail tests", "Snail tests\Snail tests.csproj", "{4A47D6C9-977F-4D1A-85C3-9CBD9C354EEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +445,14 @@ Global
 		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F11CA4-4237-4196-B503-9F2C0CB5A7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D57C908-49B8-4526-93C7-00088C30860B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D57C908-49B8-4526-93C7-00088C30860B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D57C908-49B8-4526-93C7-00088C30860B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D57C908-49B8-4526-93C7-00088C30860B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A47D6C9-977F-4D1A-85C3-9CBD9C354EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A47D6C9-977F-4D1A-85C3-9CBD9C354EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A47D6C9-977F-4D1A-85C3-9CBD9C354EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A47D6C9-977F-4D1A-85C3-9CBD9C354EEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
